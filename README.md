@@ -7,7 +7,7 @@
 
 Maintenance of [memoir](https://ctan.org/pkg/memoir) is now with Lars
 Madsen.
-Issues should be reported at [tex.stackexchange](https://tex.stackexchange) tagged memoir.
+Issues should be reported at [tex.stackexchange](https://tex.stackexchange.com) tagged memoir.
 
 The majority of the LaTeX packages are maintained by Will Robertson at 
 [Herries Press](https://github.com/wspr/herries-press)
