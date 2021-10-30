@@ -42,9 +42,7 @@ repository will be created by obtaining the files from ctan.
 [isorot](https://ctan.org/pkg/isorot)  
 [linearb](https://ctan.org/pkg/linearb)  
 [ltx2x](https://ctan.org/pkg/ltx2x)  
-  
-[metafp (no source)](https://ctan.org/pkg/metafp (no source))  
-  
+[metafp (no source)](https://ctan.org/pkg/metafp)    
 [nabatean](https://ctan.org/pkg/nabatean)  
 [oands](https://ctan.org/pkg/oands)  
 [oldprsn](https://ctan.org/pkg/oldprsn)  
