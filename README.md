@@ -1,15 +1,20 @@
 # pwilson
 
-Holding Repository for reporting issues in Peter Wilson's packages
+## Holding repository for reporting issues in Peter Wilson's packages.
 
-[Peter Wilson](https://ctan.org/author/wilson) Has produced many TeX related packages.
 
-Maintenance of [memoir](https://ctan.org/pkg/memoir) is now with Lars Madsen, issues should be reported at [tex.stackexchange](https://tex.stackexchange) tagged memoir.
+[Peter Wilson](https://ctan.org/author/wilson) has produced many TeX related packages.
 
-The majority of the LaTeX packages are maintained by Will Robertson at [Herries Press](https://github.com/wspr/herries-press)
+Maintenance of [memoir](https://ctan.org/pkg/memoir) is now with Lars
+Madsen.
+Issues should be reported at [tex.stackexchange](https://tex.stackexchange) tagged memoir.
+
+The majority of the LaTeX packages are maintained by Will Robertson at 
+[Herries Press](https://github.com/wspr/herries-press)
 
 The [cutwin](https://ctan.org/pkg/cutwin) package is maintained in the
-cutwin repository in this LaTeX-Package-Repositories origanisation.
+[cutwin](https://github.com/LaTeX-Package-Repositories/cutwin}
+repository in this LaTeX-Package-Repositories organisation.
 
 The remaining packages are listed below. Any issues in these packages
 may be reported by opening an issue here. If necessary a new
