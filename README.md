@@ -13,7 +13,7 @@ The majority of the LaTeX packages are maintained by Will Robertson at
 [Herries Press](https://github.com/wspr/herries-press)
 
 The [cutwin](https://ctan.org/pkg/cutwin) package is maintained in the
-[cutwin](https://github.com/LaTeX-Package-Repositories/cutwin}
+[cutwin](https://github.com/LaTeX-Package-Repositories/cutwin)
 repository in this LaTeX-Package-Repositories organisation.
 
 The remaining packages are listed below. Any issues in these packages
